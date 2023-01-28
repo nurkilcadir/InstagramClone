@@ -1,0 +1,2 @@
+*.swift linguist-detectable=true
+*.ruby linguist-detectable=true
