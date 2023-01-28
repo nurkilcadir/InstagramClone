@@ -1,3 +1,5 @@
 *.swift linguist-detectable=true
 *.ruby linguist-vendored
 
+*.swift linguist-vendored=false
+
