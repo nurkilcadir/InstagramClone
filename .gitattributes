@@ -1,1 +1,1 @@
-*.ruby linguist-detectable=false
+ *.* linguist-language=Swift
